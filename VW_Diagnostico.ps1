@@ -19,7 +19,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 # ============================================================
 # INSTRUCAO: Cole abaixo a URL RAW do seu Gist privado com licencas.json
 # Exemplo: https://gist.githubusercontent.com/hugoqwe1997-code/SEU_ID/raw/licencas.json
-$licUrl = https://gist.githubusercontent.com/hugoqwe1997-code/7636dbb9e57f963ae48f8fadeb547079/raw//gistfile1.txt
+$licUrl = https://gist.githubusercontent.com/hugoqwe1997-code/7636dbb9e57f963ae48f8fadeb547079/raw/gistfile1.txt
 
 $licArquivo = "$env:APPDATA\VW_Informatica\licenca.key"
 $licDir = "$env:APPDATA\VW_Informatica"
