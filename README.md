@@ -1,1 +1,0 @@
-# Sistema-Diagn-stico-por-VW.inform-tica
